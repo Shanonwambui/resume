@@ -1,0 +1,283 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Shanon Wambui",
+    "label": "Software Developer",
+    "image": "https://drive.google.com/uc?export=view&id=1zFljEFkzins02UHO0bMsTAe4gc4CQaV5",
+
+    "email": "shanonwambui24@gmail.com",
+   
+    "url": "https://www.linkedin.com/in/wambui-shanon",
+
+    "summary": "Proficient in software development with over 1 year experience in building cross-platform frontend applications. My main area of interest is creating user interfaces that are intuitive and flexible because I have a passion for technology and a want to be successful as a software engineer. I am committed to making the most use of my knowledge and experience to develop software solutions that not only satisfy functional needs but also deliver outstanding user experiences. ",
+
+    "location": {
+      "address": "",
+      "postalCode": "00100",
+      "city": "Nairobi",
+      "countryCode": "KE",
+      "region": "Kenya"
+    },
+    "profiles": [
+      {
+        "network": "linkedin",
+        "username": "shanon wambui",
+        "url": "https://www.linkedin.com/in/wambui-shanon"
+      },
+     
+      {
+        "network": " Gitlab",
+        "username": "Shanon wambui",
+        "url": "https://gitlab.com/"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Jomo Kenyatta University of Agriculture and Technology",
+      "url": "https://www.jkuat.ac.ke/",
+      "area": "Electrical and electronics engineering",
+      "studyType": "Bachelor",
+      "startDate": "2018-09-01",
+      "endDate": "2023-12-23",
+      "score": "4.0",
+      "Courses": [
+        "Object Oriented Programming",
+        "Data Structures and Algorithms"
+      ]
+      
+    }
+  ],
+  
+  "work": [
+    {
+      "name": "Numeral IOT",
+      "institution":"NUMERAL IOT",
+      "location": "Nairobi",
+      "description": "Numeral IOT deals with everything IOT related. From speed governors to smart-home appliances",
+      "position": "Software Developer intern",
+      "url": "https://www.numeraliot.com/",
+      "startDate": "2023-01-10",
+      "endDate": "2023-04-30",
+      "summary": "Successfully developed and deployed highly responsive and user-friendly websites that offered an exceptional user experience. The websites were built using Typescript, incorporating modern technologies like endpoints for seamless data communication. By leveraging advanced features provided by Chrome extensions, the websites capabilities and user interactions were enhanced.",
+      "highlights": [
+        "In the development process, Angular and TypeScript were employed. TypeScript's strong typing capabilities greatly contributed to the readability, maintainability, and efficient error detection of the codebase. By incorporating decorators and static typing, the development team was able to leverage advanced features that further enhanced the software's robustness and efficiency.",
+        
+        "Collaborated with the back-end software engineer to develop and deploy software applications such as an ecommerce website where clients can order food online and a checkpoint website where clients can report cases such as land cases"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Kenya Space Agency",
+      "position": "Taifa-1 Sat student trainee",
+      "url": "https://ksa.go.ke/",
+      "startDate": "2022-01-01",
+      "endDate": "2023-01-01",
+      "summary": "Student training program to develop a Nano-satelite",
+      "highlights": [
+        "I was part of the EPS (Electrical Power Supply) team.",
+        "Designed and implemented the Power circuit"
+
+      ]
+      
+    },
+    {
+      "organization": "Society of Engineering Students",
+      "position": "Member",
+      "url": "https://www.linkedin.com/company/jkuat-society-of-engineering-students/",
+      "startDate": "2019-01-01",
+      "endDate": "2023-01-01",
+      "summary": "Engineering program for students in engineering related fields.",
+      "highlights": [
+        "Took part in tech workshops organized by Women in Tech committee."
+      
+        
+
+      ]
+
+    }
+  ],
+
+  
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Typescript"
+
+
+      ]
+    },
+    {
+      "name": "Back-end engineering",
+      "level": "intermediate",
+      "keywords": [
+        "Python",
+        "Node.js",
+        "Java",
+        "PHP"
+        
+
+
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "intermediate",
+      "keywords": [
+        "MySQL",
+        "NoSQL"
+        
+
+
+      ]
+    },
+    {
+      "name": "Cloud",
+      "level": "Master",
+      "keywords": [
+        "Amazon Web Servives"
+        
+       
+
+
+      ]
+    },
+    {
+      "name": "Deploying",
+      "level": "Master",
+      "keywords": [
+        "Docker"
+        
+
+
+      ]
+    },
+    {
+      "name": "Frame-works",
+      "level": "Master",
+      "keywords": [
+        "Angular",
+        "React"
+        
+
+
+      ]
+    }
+    
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+ 
+  "interests": [
+    {
+      "name": "ART",
+      "keywords": [
+        "Adobe Photoshop"
+        
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Brian Munene",
+      "position": "CTO",
+      "organization": "NUMERAL IOT",
+      "email": "ryanmunene79@gmail.com",
+      "phone": "+254718937403",
+      "reference": "I am delighted to recommend Shanon as a software developer. Her exceptional performance in her role demonstrated her proficiency and dedication. Shanon's ability to tackle complex problems and deliver high-quality solutions makes her a valuable asset to any company. "
+    }
+  ],
+  "projects": [
+    {
+      "name": "E-commerce website",
+      "description": "An e-commerce website where people can order food online.",
+      "highlights": [
+        "Developed a highly responsive and user-friendly website that provided an exceptional user experience.",
+        "Designed and built the website using Typescript, incorporating modern and cutting-edge technologies such as Google Maps integration, JavaScript, and endpoints for seamless data communication.",
+        "Leveraged advanced features and functionality offered by Chrome extensions to enhance the website's capabilities and improve user interactions.",
+        
+        "Utilized Docker for seamless deployment"
+      
+      ],
+      "keywords": [
+    
+       
+        "Javascript",
+        "endpoints",
+        "responsive",
+        "Chrome Extension",
+        "Docker"
+      ],
+      "startDate": "2023-02-14",
+      "endDate": "2023-03-10",
+      "url": "http://41.242.2.189:2111/business",
+      "roles": [
+        
+        "Frontend Developer"
+      ],
+      
+      "type": "web-application"
+    },
+    
+    {
+      "name": "Checkpoint website",
+      "description": "A checkpoint website where people report cases.",
+      "highlights": [
+        "Developed and deployed a fully functional website with user authentication",
+        "Utilized cookies to provide personalized user experiences and facilitate session management on the website.",
+        "Integrated payment APIs to enable secure online transactions, ensuring a smooth and reliable payment process for users.",
+        "Employed endpoints to establish effective communication between the website's front-end and back-end components, allowing for efficient data transfer and processing."
+        
+      ],
+      "keywords": [
+        "API",
+        
+        
+        "cookies"
+        
+      ],
+      "startDate": "2023-04-14",
+      "endDate": "2023-07-01",
+      
+      "roles": [
+        "Frontend Developer"
+      ],
+      
+      "type": "web-application"
+    },
+    {
+      "name": "Smart walking stick for the visually impared",
+      "description": "Automating walking sticks to aid the visually impared in their navigations.",
+      "highlights": [
+        "Sensor technology and its application in detecting obstacles and hazards",
+        "Wireless communication systems for transmitting notifications and location information",
+        "Microprocessor programming for integrating sensors, buzzer, and transmitters"
+        
+       
+      
+      ],
+      
+      "startDate": "2023-03-24",
+      "endDate": "2023-12-03",
+      
+    
+      
+      "type": "IOT"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
